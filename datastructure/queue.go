@@ -1,8 +1,8 @@
-package queue
+package datastructure
 
 import (
-"container/list"
-"fmt"
+	"container/list"
+	"fmt"
 )
 
 type Queue struct { // ❶ Queue 구조체 정의
